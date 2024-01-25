@@ -1,0 +1,8 @@
+! pip install torch torchvision
+! pip install ultralytics
+! pip install timm
+! pip install opencv-python
+! pip install pillow
+! pip install dill
+! pip install ffmpeg-python
+! pip install openpyxl
