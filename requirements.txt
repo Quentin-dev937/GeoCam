@@ -1,0 +1,8 @@
+torch torchvision
+ultralytics
+timm
+opencv-python
+pillow
+dill
+ffmpeg-python
+openpyxl
